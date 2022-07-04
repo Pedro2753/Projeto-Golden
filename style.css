@@ -1,0 +1,117 @@
+@charset "UTF-8";
+
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+padding: 0px;
+margin: 0px;
+background-image: url('imagens/background-retro.jpg')
+}
+
+header{
+
+font-family: 'Finlandica', sans-serif;
+text-align: center;
+background-color:rgb(0, 0, 0);
+color: white;
+font-size: 4vh;
+text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.363);
+padding-top: 5px;
+padding-bottom: 10px;
+}
+
+main{
+   
+}
+
+div#con01{
+ font-size: 2.5vh;
+    background-color: white;
+    padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  min-width: 320px;
+  max-width: 1000px;
+  margin:auto;
+  margin-top: -10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.356);
+  border-radius: 10px;
+
+}
+
+div#con02{
+    font-size: 2.5vh;
+    background-color: white;
+    padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  min-width: 320px;
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 50px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.356);
+  border-radius: 10px;
+}
+
+div#con3{
+    font-size: 2.5vh;
+    background-color: white;
+    padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  min-width: 320px;
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.356);
+  border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+}
+
+img#key{
+
+    width: 300px;
+    height: 150px;
+
+}
+
+img#ztp{
+    width: 100vh;
+    height: 50vh;
+    display: block;
+    margin: auto;
+}
+
+img#burnout{
+    width: 75vh;
+    height: 50vh;
+    display: block;
+    margin: auto;
+}
+
+nav a {
+    color:rgb(255, 255, 255);
+    padding:10px;
+}
+
+nav a:hover{
+    background-color: rgb(89, 194, 40);
+    color: white;
+
+}
+    footer{
+        background-color: rgb(0, 0, 0);
+        text-align: center;
+        font-size: 0.8em;
+        padding: 10px;
+        
+        color: white;
+      width: auto;
+      }
